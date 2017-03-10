@@ -7,3 +7,6 @@ out/
 #iml
 *.iml
 
+#textFiles
+*.txt
+
